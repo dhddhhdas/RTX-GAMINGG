@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Automating CSRP <t:1712527200:F>!","DM Me for support!"];
+const statusMessages = ["Automating CSRP!","DM Me for support!"];
 
 
 let currentIndex = 0;
