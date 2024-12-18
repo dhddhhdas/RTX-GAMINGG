@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Automating CSRP!","DM Me for support!"];
+const statusMessages = ["Na serwerze PaintMc ! ","Dołącz już dziś!"];
 
 
 let currentIndex = 0;
